@@ -1,0 +1,22 @@
+class Producto {
+  - idProducto
+  - nombre
+  - precio
+  + actualizarStock()
+}
+
+class Cliente {
+  - idCliente
+  - nombre
+  + realizarCompra()
+}
+
+class Orden {
+  - idOrden
+  - fecha
+  - total
+  + calcularTotal()
+}
+
+Cliente --> Orden
+Orden --> Producto
