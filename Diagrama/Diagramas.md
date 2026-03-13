@@ -5,4 +5,5 @@
 ## Biblioteca
 ![Biblioteca](https://github.com/BrayanZR29/POO_Java/blob/main/Diagrama/Biblioteca.png))
 
+![Veterinaria](https://github.com/BrayanZR29/POO_Java/blob/main/Diagrama/Veterinaria.png))
 
